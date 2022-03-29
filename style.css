@@ -1,0 +1,13 @@
+.container{
+    box-shadow: 0 0 10px black;
+    width: 90%;
+    margin: 3em ;
+
+}
+.box{
+    width: 80% auto;
+    background-color: blueviolet;
+    margin: 0 auto;
+    padding: .5em;
+    font-size: 1.1rem;
+}
